@@ -2,3 +2,10 @@ educator_key,module,training_version,specialty,role_state,observation_source,beh
 E-02,listening,T1,medicine,active,learner,elicited-concern,2026-05-01,ward
 E-02,life-education,T1,medicine,active,mentor,allowed-silence,2026-05-08,practice
 E-15,listening,T2,surgery,transferred,learner,plain-language,2026-05-11,clinic
+E-02,listening,T1,medicine,active,learner,elicited-concern,2026-03-01,ward
+E-02,listening,T1,medicine,active,mentor,elicited-concern,2026-04-01,clinic
+E-02,life-education,T1,medicine,active,learner,allowed-silence,2026-05-14,practice
+E-15,listening,T1,surgery,active,learner,elicited-concern,2025-10-10,clinic
+E-15,listening,T2,surgery,active,mentor,plain-language,2026-06-02,ward
+E-27,communication,T2,pediatrics,active,student,checked-understanding,2026-06-18,clinic
+E-31,life-education,T1,medicine,left-role,learner,allowed-silence,2026-05-30,practice
